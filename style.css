@@ -1,0 +1,45 @@
+.main-outer-body {
+    background-color: black;
+    width: 500px;
+}
+
+.Btn {
+    height: 100px;
+    width: 100px;
+    margin: 15px 15px 15px 15px;
+    border: none;
+    border-radius: 50px;
+    font-size: 3.5rem;
+    color: white;
+    background-color: rgb(72, 71, 71);
+}
+
+.row1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
