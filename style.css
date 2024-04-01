@@ -1,0 +1,13 @@
+.main-outer-body {
+    background-color: black;
+    height: 800px;
+    width: 450px;
+}
+
+.Btn {
+    height: 100px;
+    width: 100px;
+    border: none;
+    border-radius: 50px;
+    font-size: 3rem;
+}
