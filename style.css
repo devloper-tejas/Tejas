@@ -1,6 +1,9 @@
 .main-outer-body {
     background-color: black;
     width: 500px;
+    height: 1000px;
+    margin-left: 400px;
+    border-radius: 30px;
 }
 
 .Btn {
@@ -42,4 +45,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.buttons-collection {
+    padding-top: 330px;
 }
