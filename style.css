@@ -47,6 +47,14 @@
     align-items: center;
 }
 
-.buttons-collection {
-    padding-top: 330px;
+.input {
+    margin-top: 230px;
+    width: 97.85%;
+    height: 100px;
+    font-size: 3.5rem;
+    border-color: none;
+    background-color: black;
+    color: white;
+    border: 0px solid black;
+    text-align: right;
 }
