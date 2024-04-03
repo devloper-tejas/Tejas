@@ -1,1 +1,1 @@
-# this is a calculator
+# this is a calculator made by devloper Tejas 
